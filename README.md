@@ -1,2 +1,2 @@
 # hello-world
-o.o/ &lt; hello~ >
+a bit about yourself.
